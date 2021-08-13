@@ -122,7 +122,7 @@ links:
       href: http://steamcommunity.com/id/YOUR_STEAM_CUSTOM_ID
       icon: fab fa-steam
   - soundcloud:
-      name: Soundcloud
+      name: Web Radio
       show: true
       href: https://marzorati.co/streaming-radio-playlist/
       icon: fab fa-soundcloud
@@ -137,7 +137,7 @@ links:
       href: https://marzorati.co/
       icon: fab fa-github
   - codepen:
-      name: CodePen
+      name: Curriculum Vitae
       show: true
       href: https://marzorati.co/curriculum-vitae
       icon: fab fa-codepen
