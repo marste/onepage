@@ -66,16 +66,41 @@ avatar: "https://marzorati.co/img/me.jpeg"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - xing:
-      name: Xing
-      show: false
-      href: https://www.xing.com/profile/YOUR_XING_USERNAME/
-      icon: fab fa-xing
+  - blog:
+      name: Blog
+      show: true
+      href: https://marzorati.co
+      icon: fas fa-book-open
   - linkedin:
       name: LinkedIn
       show: true
       href: https://linkedin.com/in/stefanomarzorati/
       icon: fab fa-linkedin
+  - codepen:
+      name: Curriculum Vitae
+      show: true
+      href: https://marzorati.co/curriculum-vitae
+      icon: fab fa-codepen
+  - instagram:
+      name: Instagram
+      show: true
+      href: https://www.instagram.com/stefanomarzorati
+      icon: fab fa-instagram
+  - soundcloud:
+      name: Web Radio
+      show: true
+      href: https://marzorati.co/streaming-radio-playlist/
+      icon: fab fa-soundcloud
+  - email:
+      name: Email
+      show: true
+      href: mailto:stefano@marzorati.co
+      icon: fas fa-envelope
+  - xing:
+      name: Xing
+      show: false
+      href: https://www.xing.com/profile/YOUR_XING_USERNAME/
+      icon: fab fa-xing
   - googleplus:
       name: Google+
       show: false
@@ -106,11 +131,6 @@ links:
       show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
-  - instagram:
-      name: Instagram
-      show: true
-      href: https://www.instagram.com/stefanomarzorati
-      icon: fab fa-instagram
   - flickr:
       name: Flickr
       show: false
@@ -121,11 +141,6 @@ links:
       show: false
       href: http://steamcommunity.com/id/YOUR_STEAM_CUSTOM_ID
       icon: fab fa-steam
-  - soundcloud:
-      name: Web Radio
-      show: true
-      href: https://marzorati.co/streaming-radio-playlist/
-      icon: fab fa-soundcloud
   - lastfm:
       name: Last.fm
       show: false
@@ -136,11 +151,6 @@ links:
       show: false
       href: https://marzorati.co/
       icon: fab fa-github
-  - codepen:
-      name: Curriculum Vitae
-      show: true
-      href: https://marzorati.co/curriculum-vitae
-      icon: fab fa-codepen
   - stackoverflow:
       name: Stack Overflow
       show: false
@@ -161,16 +171,6 @@ links:
       show: false
       href: https://YOUR_TUMBLR_USERNAME.tumblr.com/
       icon: fab fa-tumblr
-  - blog:
-      name: Blog
-      show: true
-      href: https://marzorati.co
-      icon: fas fa-book-open
-  - email:
-      name: Email
-      show: true
-      href: mailto:stefano@marzorati.co
-      icon: fas fa-envelope
   - publickey:
       name: PGP Key
       show: false
