@@ -80,7 +80,7 @@ links:
       name: Curriculum Vitae
       show: true
       href: https://marzorati.co/curriculum-vitae
-      icon: fab fa-codepen
+      icon: fas fa-clipboard
   - instagram:
       name: Instagram
       show: true
