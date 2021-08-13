@@ -28,7 +28,7 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://stefano.marzorati.co/
+url: https://stefano.marzorati.co
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
@@ -74,7 +74,7 @@ links:
   - linkedin:
       name: LinkedIn
       show: true
-      href: https://linkedin.com/in/stefanomarzorati/
+      href: https://linkedin.com/in/stefanomarzorati
       icon: fab fa-linkedin
   - codepen:
       name: Curriculum Vitae
@@ -89,7 +89,7 @@ links:
   - soundcloud:
       name: Web Radio
       show: true
-      href: https://marzorati.co/streaming-radio-playlist/
+      href: https://marzorati.co/streaming-radio-playlist
       icon: fas fa-music
   - email:
       name: Email
