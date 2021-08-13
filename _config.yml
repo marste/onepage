@@ -85,7 +85,7 @@ links:
       name: Instagram
       show: true
       href: https://www.instagram.com/stefanomarzorati
-      icon: fa fa-lg fa-instagram
+      icon: fab fa-instagram
   - soundcloud:
       name: Web Radio
       show: true
