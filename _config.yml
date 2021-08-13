@@ -24,7 +24,7 @@ title:
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
     description: 'IT Infrastructure Manager - Oltre 24 anni di esperienza nel settore ICT'
-    keywords: foo, bar, baz
+    keywords: it manager, infrastructure, ict, amministratore, responsabile it
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
@@ -42,7 +42,7 @@ baseurl: ''
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-120960520-1'
+    account: 'UA-38247823-1'
     cookieconsent: true
     anonymizeip: true
 
