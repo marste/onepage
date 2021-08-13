@@ -73,8 +73,8 @@ links:
       icon: fab fa-xing
   - linkedin:
       name: LinkedIn
-      show: false
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+      show: true
+      href: https://linkedin.com/in/stefanomarzorati/
       icon: fab fa-linkedin
   - googleplus:
       name: Google+
@@ -83,12 +83,12 @@ links:
       icon: fab fa-google-plus
   - twitter:
       name: Twitter
-      show: true
+      show: false
       href: https://twitter.com/YOUR_TWITTER_USERNAME
       icon: fab fa-twitter
   - weibo:
       name: 微博
-      show: true
+      show: false
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
   - vine:
@@ -103,13 +103,13 @@ links:
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
       name: Instagram
-      show: false
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+      show: true
+      href: https://www.instagram.com/stefanomarzorati
       icon: fab fa-instagram
   - flickr:
       name: Flickr
@@ -123,8 +123,8 @@ links:
       icon: fab fa-steam
   - soundcloud:
       name: Soundcloud
-      show: false
-      href: https://soundcloud.com/YOUR_SOUNDCLOUD_USERNAME
+      show: true
+      href: https://marzorati.co/streaming-radio-playlist/
       icon: fab fa-soundcloud
   - lastfm:
       name: Last.fm
@@ -133,8 +133,8 @@ links:
       icon: fab fa-lastfm
   - github:
       name: GitHub
-      show: true
-      href: https://github.com/tsjensen
+      show: false
+      href: https://marzorati.co/
       icon: fab fa-github
   - codepen:
       name: CodePen
@@ -164,16 +164,16 @@ links:
   - blog:
       name: Blog
       show: true
-      href: http://host.domain/your_blog
+      href: https://marzorati.co
       icon: fas fa-book-open
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:stefano@marzorati.co
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
