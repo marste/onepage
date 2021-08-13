@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    github-pages (193)
+      jekyll-sitemap (= 1.2.0)
+    jekyll-sitemap (1.2.0)
+      jekyll (~> 3.3)
+    
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  github-pages (= 193)
+  jekyll-paginate
+
+BUNDLED WITH
+   1.17.1
