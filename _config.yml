@@ -23,7 +23,7 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
+    description: 'IT Infrastructure Manager - Oltre 24 anni di esperienza nel settore ICT'
     keywords: foo, bar, baz
     crawl: index,follow
 
@@ -138,8 +138,8 @@ links:
       icon: fab fa-github
   - codepen:
       name: CodePen
-      show: false
-      href: https://codepen.io/YOUR_CODEPEN_USERNAME
+      show: true
+      href: https://marzorati.co/curriculum-vitae
       icon: fab fa-codepen
   - stackoverflow:
       name: Stack Overflow
