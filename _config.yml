@@ -183,4 +183,6 @@ links:
 extra_html: >
     
 
+plugins:
+  - jekyll-sitemap
 #EOF
