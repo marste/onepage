@@ -90,7 +90,7 @@ links:
       name: Web Radio
       show: true
       href: https://marzorati.co/streaming-radio-playlist/
-      icon: fab fa-soundcloud
+      icon: fas fa-music
   - email:
       name: Email
       show: true
