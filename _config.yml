@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Stefano Marzorati
 #subtitle:
-subtitle: IT Infrastructure Manager
+subtitle: IT Manager
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -23,7 +23,7 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: 'IT Infrastructure Manager - Oltre 24 anni di esperienza nel settore ICT'
+    description: 'IT Manager - 25 anni di esperienza nel settore ICT'
     keywords: it manager, infrastructure, ict, amministratore, responsabile it
     crawl: index,follow
 
