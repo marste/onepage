@@ -88,7 +88,7 @@ links:
       icon: fab fa-instagram
   - soundcloud:
       name: Web Radio
-      show: true
+      show: false
       href: https://marzorati.co/streaming-radio-playlist
       icon: fas fa-music
   - email:
@@ -148,8 +148,8 @@ links:
       icon: fab fa-lastfm
   - github:
       name: GitHub
-      show: false
-      href: https://marzorati.co/
+      show: true
+      href: https://github.com/marste
       icon: fab fa-github
   - stackoverflow:
       name: Stack Overflow
